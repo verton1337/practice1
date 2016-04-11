@@ -1,0 +1,4 @@
+1 file->new
+2 type IDEF0
+3 ok-ok-ok
+4 model-def fonts-text box-script(kiriltsa)
